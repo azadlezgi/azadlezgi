@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azadlezgi/azadlezgi/main/github_banner.png" />
+  <img src="https://raw.githubusercontent.com/azadlezgi/azadlezgi/main/github_banner.png" alt="Full-Stack Developer" style="border-radius:10px;" />
 </p>
 
 ---
