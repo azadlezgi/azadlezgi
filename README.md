@@ -1,80 +1,111 @@
-# 👋 Hi, I'm Azad Rashidov
+<!-- 🔥 HEADER -->
+<h1 align="center">👋 Hi, I'm Azad Rashidov</h1>
+<h3 align="center">🚀 Full-Stack Developer | SaaS Builder | System Architect</h3>
 
-🚀 Full-Stack Developer | Laravel • Node.js • Vue • Flutter  
-💡 Founder mindset | SaaS Builder | Problem Solver  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azadlezgi&label=Profile%20views&color=0e75b6&style=flat" alt="azadlezgi" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a full-stack developer from Azerbaijan 🇦🇿 with strong experience in building scalable SaaS platforms, ERP systems, and real-world business solutions.
+💡 I'm not just a developer — I design and build systems that solve real-world business problems.
 
-I don’t just write code — I build systems that solve real business problems.
+- ⚙️ SaaS platforms (multi-tenant architecture)
+- 🧩 ERP / HRM systems
+- ⏱️ Advanced Attendance & Workforce Management systems
+- 📡 GPS tracking & monitoring
+- 🤖 Automation & AI integrations
+- 🔌 IoT & hardware integrations
+
+🎯 Focus: Scalable, high-performance, revenue-driven systems
 
 ---
 
 ## ⚙️ Tech Stack
 
-Backend:
-- PHP (Laravel, MVC, OOP)
-- Node.js (Express, Redis, Microservices)
-
-Frontend:
-- JavaScript (jQuery, Vue.js, Alpine.js)
-- HTML5, CSS3, Bootstrap 5
-
-Mobile:
-- Flutter (iOS & Android apps)
-
-Database:
-- MySQL, Redis
-
-DevOps & Tools:
-- Git, Composer, NPM
-- Linux (AlmaLinux, Ubuntu)
-- NGINX, Apache
-- PM2, CronJobs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,vue,flutter,mysql,redis,nginx,linux,git" />
+</p>
 
 ---
 
-## 🚀 Projects & Experience
+## 🚀 Featured Projects
 
 🔹 Digital VCard SaaS Platform  
-🔹 HRM / ERP Systems (multi-tenant architecture)  
-🔹 GPS Tracking & Monitoring Systems  
-🔹 Scanner Automation (Node.js + OCR + Redis)  
-🔹 E-commerce & CMS Platforms  
-🔹 Medical Systems (clinic automation)  
+➡️ Smart digital business card solution for modern businesses  
+
+🔹 HRM / ERP (Multi-tenant)  
+➡️ End-to-end employee lifecycle management system  
+
+🔹 Enterprise Attendance Management System  
+➡️ Real-time workforce tracking with advanced control & analytics  
+✔️ GPS-based check-in / check-out  
+✔️ Radius-based location validation  
+✔️ Mobile attendance (field & office employees)  
+✔️ Shift & schedule management  
+✔️ Late, overtime & work-hour calculations  
+✔️ Real-time dashboards & reporting  
+✔️ Multi-branch / multi-company support  
+✔️ Integration-ready architecture (API-first approach)  
+
+🔹 GPS Monitoring System  
+➡️ Real-time tracking with analytics & insights  
+
+🔹 Scanner Automation System  
+➡️ Node.js + OCR + Redis based document automation  
+
+🔹 Medical Systems (RDM)  
+➡️ Clinic management & healthcare integrations  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azadlezgi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azadlezgi&theme=radical" />
+</p>
 
 ---
 
 ## 🧩 What I Build
 
-✔️ SaaS Platforms  
-✔️ Business Automation Systems  
-✔️ API Integrations  
-✔️ Admin Panels & Dashboards  
-✔️ Mobile Apps  
-✔️ IoT / Hardware Integrations  
+✔️ SaaS platforms  
+✔️ Business automation systems  
+✔️ Workforce & attendance management  
+✔️ API & system integrations  
+✔️ Admin panels & dashboards  
+✔️ Mobile applications  
+✔️ IoT & hardware solutions  
+
+---
+
+## 📊 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azadlezgi&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📈 Current Focus
 
-- Scaling SaaS products  
-- Performance & system architecture  
-- AI integrations in business systems  
-- Automation & optimization  
+- 🚀 Scaling SaaS products  
+- ⚡ Performance optimization & system architecture  
+- 🤖 AI integrations in business systems  
+- 🔄 Automation & process optimization  
 
 ---
 
 ## 🤝 Let's Work Together
 
 💼 Open for:
-- Freelance projects  
-- Long-term collaboration  
 - SaaS development  
-- System architecture  
+- Enterprise system architecture  
+- Automation solutions  
+- Long-term technical partnerships  
 
 ---
 
@@ -82,13 +113,14 @@ DevOps & Tools:
 
 📧 Email: azad@rashidoff.com  
 🌐 Portfolio: www.rashidoff.com  
-💬 Telegram / WhatsApp: +994 (55) 398-8090
----
-
-## ⚡ Fun Fact
-
-I enjoy turning complex ideas into simple, working systems that generate real value.
+💬 Telegram / WhatsApp: +994 (55) 398 - 8090  
 
 ---
 
-⭐️ *Check out my repositories and feel free to contribute or colla
+## ⚡ Motto
+
+> “I don’t just write code — I build systems that drive business.”
+
+---
+
+⭐️ Explore my repositories and let's build somet
