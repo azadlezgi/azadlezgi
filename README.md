@@ -1,4 +1,7 @@
 <!-- 🔥 HEADER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azadlezgi/azadlezgi/main/github_banner.png" />
+</p>
 <h1 align="center">👋 Hi, I'm Azad Rashidov</h1>
 <h3 align="center">🚀 Full-Stack Developer | SaaS Builder | System Architect</h3>
 
